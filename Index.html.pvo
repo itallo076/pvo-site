@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Como Fazer a Primeira Venda (PVO) - Curso Online</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #000;
+            color: #fff;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+        }
+        header {
+            background-color: #008000;
+            padding: 20px;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .banner img {
+            width: 100%;
+            max-height: 400px;
+            object-fit: cover;
+        }
+        .content {
+            padding: 30px;
+        }
+        .btn-comprar {
+            background-color: #008000;
+            color: #fff;
+            padding: 15px 30px;
+            font-size: 18px;
+            text-decoration: none;
+            border-radius: 5px;
+            display: inline-block;
+            margin-top: 20px;
+        }
+        .depoimentos {
+            background-color: #111;
+            padding: 30px;
+            margin-top: 30px;
+        }
+        .depoimentos p {
+            font-style: italic;
+        }
+        .garantia {
+            background-color: #222;
+            padding: 30px;
+            margin-top: 30px;
+        }
+        footer {
+            background-color: #008000;
+            padding: 20px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        Como Fazer a Primeira Venda (PVO)
+    </header>
+
+    <div class="container">
+        <div class="banner">
+            <img src="curso-pvo-banner.jpg" alt="Banner do curso PVO">
+        </div>
+
+        <div class="content">
+            <h2>Descubra como fazer sua primeira venda no marketing digital!</h2>
+            <p>Este curso passo a passo vai te ensinar as melhores estratégias para conquistar sua primeira venda online.</p>
+            
+            <a href="https://pagamento.com/link-pagamento" class="btn-comprar">Comprar Agora</a>
+        </div>
+
+        <div class="depoimentos">
+            <h2>O que nossos alunos dizem?</h2>
+            <p>"Esse curso me ajudou a fazer minha primeira venda em menos de uma semana!" - João Silva</p>
+            <p>"Explicação clara e prática. Agora tenho um caminho certo para seguir!" - Maria Souza</p>
+        </div>
+
+        <div class="garantia">
+            <h2>Garantia de 7 Dias</h2>
+            <p>Se você não gostar do curso, devolvemos 100% do seu dinheiro dentro de 7 dias!</p>
+        </div>
+    </div>
+
+    <footer>
+        Pagamentos aceitos: Pix | Cartão de Crédito | PagSeguro | PayPal
+    </footer>
+
+</body>
+</html>
